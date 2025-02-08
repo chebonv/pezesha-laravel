@@ -1,0 +1,19 @@
+{
+    "name": "chebon/pezesha-laravel",
+    "description": "Laravel package for Pezesha API integration",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Chebon\\PezeshaLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vincent Chebon",
+            "email": "chebonv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
