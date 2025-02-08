@@ -235,7 +235,7 @@ Run the test suite:
 
 ## License
 
-GNU License. See LICENSE file for details.
+MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 ## Support
 
