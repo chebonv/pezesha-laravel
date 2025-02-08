@@ -2,7 +2,7 @@
     "name": "chebon/pezesha-laravel",
     "description": "Laravel package for Pezesha API integration",
     "type": "library",
-    "license": "GNU",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Chebon\\PezeshaLaravel\\": "src/"
