@@ -2,6 +2,8 @@
 
 A Laravel package for seamless integration with the Pezesha API, enabling loan management, payments, and financial services.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chebon)
+
 ## Installation
 
 Install the package via composer:
